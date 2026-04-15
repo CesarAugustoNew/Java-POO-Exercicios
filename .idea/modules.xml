@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-POO-Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Java-POO-Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaBancario/SistemaBancario.iml" filepath="$PROJECT_DIR$/SistemaBancario/SistemaBancario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaCadastroProdutos/SistemaCadastroProdutos.iml" filepath="$PROJECT_DIR$/SistemaCadastroProdutos/SistemaCadastroProdutos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaEscolar/SistemaEscolar.iml" filepath="$PROJECT_DIR$/SistemaEscolar/SistemaEscolar.iml" />
+    </modules>
+  </component>
+</project>
