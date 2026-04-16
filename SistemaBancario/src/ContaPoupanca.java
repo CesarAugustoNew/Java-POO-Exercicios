@@ -1,6 +1,6 @@
 public class ContaPoupanca extends Conta {
 
-    private static final double RENDIMENTO = 0.005; // 0,5%
+    private static final double RENDIMENTO = 0.05; // 0,5%
 
     public ContaPoupanca(int numero, double saldo) {
         super(numero, saldo);
